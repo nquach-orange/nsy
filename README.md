@@ -7,7 +7,7 @@
 
 Auteurs : Timothée Mathubert, Gatien Roujanski, Arthur Jovart
 
-## Emails
+## Emails :
 
 Lorsque vous envoyez un mail, pensez bien à mettre "CSC 8567" au début de l'objet !
 - timothee.mathubert@telecom-sudparis.eu
